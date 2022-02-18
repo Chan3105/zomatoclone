@@ -1,1 +1,1 @@
-<?php include_once("zomatoclone.html"); ?>
+<?php include_once("zomato.html"); ?>
